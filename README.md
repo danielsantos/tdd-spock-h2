@@ -1,5 +1,7 @@
 # tdd-spock-h2
 
-## Run
+### Run
 
+```
 mvn spring-boot:run
+```
